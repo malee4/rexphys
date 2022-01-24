@@ -1,3 +1,9 @@
+###############
+# Author: Melody Lee
+# This program seeks to find the magnitude of the local extrema in oscillatory motion given 
+# a set of points containing 15 total trials.
+###############
+
 # import packages
 import numpy as np
 import csv
