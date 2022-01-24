@@ -1,3 +1,9 @@
+###############
+# Author: Melody Lee
+# This program seeks to find the magnitude of the local extrema in oscillatory motion given 
+# a set of points from a set of averages in displacement over different initial displacements (0.15m, 0.20m, 0.25m, 0.30m, 0.35m).
+###############
+
 # import packages
 import numpy as np
 import csv
